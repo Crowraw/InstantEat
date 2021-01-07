@@ -1,0 +1,4 @@
+name: InstantEat
+version: ${project.version}
+main: de.crowraw.instanteat.InstantEat
+api-version: 1.16
